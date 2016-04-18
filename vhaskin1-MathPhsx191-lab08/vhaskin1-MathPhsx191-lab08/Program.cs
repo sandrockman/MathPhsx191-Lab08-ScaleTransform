@@ -42,13 +42,13 @@ class Program
 
                 Vector3D tempPoint = GetPoint();
                 objectList.Add(tempPoint);
-            if (objectList.Count >= 4)
-                {
-                    Console.WriteLine("Add another point? (Y or N): ");
-                    string answer = Console.ReadLine();
-                    if (answer.ToUpper()[0] != 'Y')
+                if (objectList.Count >= 4)
+                    {
+                        Console.WriteLine("Add another point? (Y or N): ");
+                        string answer = Console.ReadLine();
+                        if (answer.ToUpper()[0] != 'Y')
                         exitLoop = true;
-                }
+                    }
                 Console.Clear();
             } while (!exitLoop);
 
