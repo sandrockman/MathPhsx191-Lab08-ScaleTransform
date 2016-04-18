@@ -613,7 +613,8 @@ public class Vector3D
             (cZMin + cZMax) / 2,
             cW);
 
-
+        Console.WriteLine("calculated Center Point: <" + centerP.XValue + ", "
+                + centerP.YValue + ", " + centerP.ZValue + ">.\n");
         //to be listed as columns
         List<Vector3D> scaledObj = new List<Vector3D>();
 
