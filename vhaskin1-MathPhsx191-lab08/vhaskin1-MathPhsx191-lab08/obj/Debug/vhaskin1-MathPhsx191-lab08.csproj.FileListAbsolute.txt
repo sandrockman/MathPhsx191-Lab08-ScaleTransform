@@ -1,0 +1,6 @@
+C:\Users\svc-student\Desktop\MathPhsx191-Lab08-ScaleTransform\vhaskin1-MathPhsx191-lab08\vhaskin1-MathPhsx191-lab08\bin\Debug\vhaskin1-MathPhsx191-lab08.exe.config
+C:\Users\svc-student\Desktop\MathPhsx191-Lab08-ScaleTransform\vhaskin1-MathPhsx191-lab08\vhaskin1-MathPhsx191-lab08\bin\Debug\vhaskin1-MathPhsx191-lab08.exe
+C:\Users\svc-student\Desktop\MathPhsx191-Lab08-ScaleTransform\vhaskin1-MathPhsx191-lab08\vhaskin1-MathPhsx191-lab08\bin\Debug\vhaskin1-MathPhsx191-lab08.pdb
+C:\Users\svc-student\Desktop\MathPhsx191-Lab08-ScaleTransform\vhaskin1-MathPhsx191-lab08\vhaskin1-MathPhsx191-lab08\obj\Debug\vhaskin1-MathPhsx191-lab08.csprojResolveAssemblyReference.cache
+C:\Users\svc-student\Desktop\MathPhsx191-Lab08-ScaleTransform\vhaskin1-MathPhsx191-lab08\vhaskin1-MathPhsx191-lab08\obj\Debug\vhaskin1-MathPhsx191-lab08.exe
+C:\Users\svc-student\Desktop\MathPhsx191-Lab08-ScaleTransform\vhaskin1-MathPhsx191-lab08\vhaskin1-MathPhsx191-lab08\obj\Debug\vhaskin1-MathPhsx191-lab08.pdb
